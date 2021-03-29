@@ -14,10 +14,6 @@ import ProjectsSection from './Sections/ProjectsSection.js'
 import CrossroadsSection from './Sections/CrossroadsSection.js'
 import InformationSection from './Sections/InformationSection.js'
 import PlaygroundSection from './Sections/PlaygroundSection.js'
-// import DistinctionASection from './Sections/DistinctionASection.js'
-// import DistinctionBSection from './Sections/DistinctionBSection.js'
-// import DistinctionCSection from './Sections/DistinctionCSection.js'
-// import DistinctionDSection from './Sections/DistinctionDSection.js'
 import Controls from './Controls.js'
 import Sounds from './Sounds.js'
 import { TweenLite } from 'gsap/TweenLite'
@@ -414,38 +410,6 @@ export default class
             tiles: this.tiles,
             debug: this.debugFolder
         }
-
-        // // Distinction A
-        // this.sections.distinctionA = new DistinctionASection({
-        //     ...options,
-        //     x: 0,
-        //     y: - 15
-        // })
-        // this.container.add(this.sections.distinctionA.container)
-
-        // // Distinction B
-        // this.sections.distinctionB = new DistinctionBSection({
-        //     ...options,
-        //     x: 0,
-        //     y: - 15
-        // })
-        // this.container.add(this.sections.distinctionB.container)
-
-        // // Distinction C
-        // this.sections.distinctionC = new DistinctionCSection({
-        //     ...options,
-        //     x: 0,
-        //     y: 0
-        // })
-        // this.container.add(this.sections.distinctionC.container)
-
-        // // Distinction D
-        // this.sections.distinctionD = new DistinctionDSection({
-        //     ...options,
-        //     x: 0,
-        //     y: 0
-        // })
-        // this.container.add(this.sections.distinctionD.container)
 
         // Intro
         this.sections.intro = new IntroSection({

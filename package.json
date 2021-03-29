@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brunosimon/three.js-template.git"
+    "url": "git+https://github.com/lebinh190998/porfolio.git"
   },
-  "author": "brunosimon",
+  "author": "lebinh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brunosimon/three.js-template/issues"
+    "url": "https://github.com/lebinh190998/porfolio/issues"
   },
-  "homepage": "https://github.com/brunosimon/three.js-template#readme",
+  "homepage": "https://github.com/lebinh190998/porfolio#readme",
   "devDependencies": {
     "@babel/core": "^7.7.7",
     "@babel/preset-env": "^7.7.7",

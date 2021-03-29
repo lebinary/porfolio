@@ -3,13 +3,13 @@
     "short_name": "Le Binh",
     "icons": [
         {
-            "src": "/favicon/android-chrome-192x192.png",
+            "src": "/favicon/android-icon-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/favicon/android-chrome-256x256.png",
-            "sizes": "256x256",
+            "src": "/favicon/apple-icon-152x152.png",
+            "sizes": "152x152",
             "type": "image/png"
         }
     ],
