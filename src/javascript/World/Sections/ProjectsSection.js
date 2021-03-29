@@ -6,8 +6,8 @@ import projectsSocialDevSlideASources from '../../../models/projects/socialDev/s
 import projectsSocialDevSlideBSources from '../../../models/projects/socialDev/slideB.png'
 import projectsSocialDevSlideCSources from '../../../models/projects/socialDev/slideC.png'
 
-import projectsChartogneSlideASources from '../../../models/projects/chartogne/slideA.png'
-import projectsChartogneSlideBSources from '../../../models/projects/chartogne/slideB.png'
+import projectsFood2ForkSlideASources from '../../../models/projects/food2Fork/slideA.png'
+import projectsFood2ForkSlideBSources from '../../../models/projects/food2Fork/slideB.png'
 
 export default class ProjectsSection
 {
@@ -102,10 +102,10 @@ export default class ProjectsSection
                 name: 'Food2Fork',
                 imageSources:
                 [
-                    projectsChartogneSlideASources,
-                    projectsChartogneSlideBSources,
+                    projectsFood2ForkSlideASources,
+                    projectsFood2ForkSlideBSources,
                 ],
-                floorTexture: this.resources.items.projectsChartogneFloorTexture,
+                floorTexture: this.resources.items.projectsFood2ForkFloorTexture,
                 link:
                 {
                     href: 'https://github.com/lebinh190998/Food2Fork',

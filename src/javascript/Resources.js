@@ -82,13 +82,7 @@ import projectsBoardStructureFloorShadowSource from '../models/projects/board/fl
 import projectsBoardPlaneSource from '../models/projects/board/plane.glb'
 
 import projectsSocialDevFloorSource from '../models/projects/socialDev/floorTexture.png'
-import projectsChartogneFloorSource from '../models/projects/chartogne/floorTexture.png'
-import projectsZenlyFloorSource from '../models/projects/zenly/floorTexture.png'
-import projectsCitrixRedbullFloorSource from '../models/projects/citrixRedbull/floorTexture.png'
-import projectsPriorHoldingsFloorSource from '../models/projects/priorHoldings/floorTexture.png'
-import projectsOranoFloorSource from '../models/projects/orano/floorTexture.png'
-import projectsGleecChatFloorSource from '../models/projects/gleecChat/floorTexture.png'
-import projectsKepplerFloorSource from '../models/projects/keppler/floorTexture.png'
+import projectsFood2ForkFloorSource from '../models/projects/food2Fork/floorTexture.png'
 
 // Information
 import informationStaticBaseSource from '../models/information/static/base1.glb'
@@ -251,13 +245,7 @@ export default class Resources extends EventEmitter
             { name: 'projectsBoardPlane', source: projectsBoardPlaneSource },
 
             { name: 'projectsSocialDevFloor', source: projectsSocialDevFloorSource, type: 'texture' },
-            { name: 'projectsChartogneFloor', source: projectsChartogneFloorSource, type: 'texture' },
-            { name: 'projectsZenlyFloor', source: projectsZenlyFloorSource, type: 'texture' },
-            { name: 'projectsCitrixRedbullFloor', source: projectsCitrixRedbullFloorSource, type: 'texture' },
-            { name: 'projectsPriorHoldingsFloor', source: projectsPriorHoldingsFloorSource, type: 'texture' },
-            { name: 'projectsOranoFloor', source: projectsOranoFloorSource, type: 'texture' },
-            { name: 'projectsGleecChatFloor', source: projectsGleecChatFloorSource, type: 'texture' },
-            { name: 'projectsKepplerFloor', source: projectsKepplerFloorSource, type: 'texture' },
+            { name: 'projectsFood2ForkFloor', source: projectsFood2ForkFloorSource, type: 'texture' },
 
             // Information
             { name: 'informationStaticBase', source: informationStaticBaseSource },
