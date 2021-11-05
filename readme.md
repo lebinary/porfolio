@@ -17,27 +17,19 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
+[![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="static/favicon/android-icon-192x192.png" alt="Logo" width="80" height="80">
-
   <h3 align="center">Le Binh's Porfolio</h3>
 
   <p align="center">
-    <a href="https://lebinhporfolio.netlify.app/">
-        <img src="static/favicon/cover.png" alt="Cover Image" width="600" height="300">
-    </a>
-    An awesome README template to jumpstart your projects!
     <!-- <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br /> -->
@@ -82,8 +74,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<a href="https://lebinhporfolio.netlify.app/">
+    <img src="static/favicon/cover.png" alt="Cover Image" width="600" height="300">
+</a>
 
 Inspired by Bruno Simon's work, I built an interactive portfolio where viewer can play games while viewing my profile 
 
