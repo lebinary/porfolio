@@ -62,7 +62,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <!-- <li><a href="#prerequisites">Prerequisites</a></li> -->
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#scripts">Scripts</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -91,7 +91,7 @@ Inspired by Bruno Simon's work, I built an interactive portfolio where viewer ca
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Frameworks/libraries used to bootstrap this project.
 
 * [Three.js](https://nextjs.org/)
 * [Blender](https://www.blender.org/)
@@ -103,7 +103,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 
