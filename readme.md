@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="static/favicon/android-icon-192x192.png" alt="Logo" width="600" height="300">
+    <img src="static/favicon/android-icon-192x192.png" alt="Logo" width="80" height="80">
   <h3 align="center">Le Binh's Porfolio</h3>
 
   <p align="center">
@@ -80,7 +80,7 @@
 ## About The Project
 
 <a href="https://lebinhporfolio.netlify.app/">
-    <img src="static/favicon/cover.png" alt="Cover Image" width="600" height="300">
+    <img align="center" src="static/favicon/cover.png" alt="Cover Image" width="800" height="400">
 </a>
 
 Inspired by Bruno Simon's work, I built an interactive portfolio where viewer can play games while viewing my profile 
