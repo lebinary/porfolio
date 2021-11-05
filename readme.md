@@ -17,19 +17,23 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<!-- [![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] -->
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+    <img src="static/favicon/android-icon-192x192.png" alt="Logo" width="600" height="300">
   <h3 align="center">Le Binh's Porfolio</h3>
 
   <p align="center">
+    An awesome README template to jumpstart your projects!
     <!-- <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br /> -->
@@ -74,6 +78,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
 <a href="https://lebinhporfolio.netlify.app/">
     <img src="static/favicon/cover.png" alt="Cover Image" width="600" height="300">
 </a>
