@@ -83,7 +83,7 @@
     <img align="center" src="static/favicon/cover.png" alt="Cover Image" width="800" height="400">
 </a>
 
-Inspired by Bruno Simon's work, I built an interactive portfolio where viewer can play games while viewing my profile 
+Credited to <b style="font-size: 40px;">Bruno Simon</b>'s amazing work, this is an interactive portfolio where viewer can play games while viewing my profile 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
